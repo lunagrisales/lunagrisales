@@ -8,7 +8,8 @@
       "styling": {},
       "additionalSetColors": [
         "#f7e0de",
-        "#21235b"
+        "#21235b",
+        "#15145d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -177,15 +178,15 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": false,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#21235b",
+            "bgColor": "#15145d",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/awaska-2.gif",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -196,7 +197,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/awaska-4.gif",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
