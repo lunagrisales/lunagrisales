@@ -7,7 +7,8 @@
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
-        "#f7e0de"
+        "#f7e0de",
+        "#21235b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -180,7 +181,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#f7e0de",
+            "bgColor": "#21235b",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/awaska-2.gif",
