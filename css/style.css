@@ -1156,4 +1156,11 @@ text-shadow: none;
 		font-size: 2em;
 	}
 
+	.single-welcome-slide {
+    position: relative;
+    z-index: 2;
+    width: 80%;
+    height: 880px;
+    background-color: #000000;
+
 	
