@@ -701,7 +701,7 @@ input:required {
       font-size: 82px;
       display: block;
       margin-bottom: 0;
-      background: -webkit-linear-gradient(#ff9696, #ffe89e);
+      background: -webkit-linear-gradient(#000000, #000000);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
       @media only screen and (max-width: 767px) {
@@ -716,7 +716,7 @@ input:required {
       font-style: italic;
       text-decoration: underline; }
       .single-welcome-slide .welcome-text .hero-mail-contact:hover, .single-welcome-slide .welcome-text .hero-mail-contact:focus {
-        color: #fc6060; }
+        color: #000000; }
 
 /* :: 9.0 Footer CSS */
 .footer-content {
