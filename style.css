@@ -683,7 +683,11 @@ input:required {
   z-index: 2;
   width: 100%;
   height: 880px;
+<<<<<<< HEAD
   background-color: #00000; }
+=======
+  background-color: #000000; }
+>>>>>>> gh-pages
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .single-welcome-slide {
       height: 750px; } }
@@ -701,7 +705,11 @@ input:required {
       font-size: 82px;
       display: block;
       margin-bottom: 0;
+<<<<<<< HEAD
       background: -webkit-linear-gradient(#000000, #00000);
+=======
+      background: -webkit-linear-gradient(#000000, #000000);
+>>>>>>> gh-pages
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
       @media only screen and (max-width: 767px) {
@@ -716,7 +724,11 @@ input:required {
       font-style: italic;
       text-decoration: underline; }
       .single-welcome-slide .welcome-text .hero-mail-contact:hover, .single-welcome-slide .welcome-text .hero-mail-contact:focus {
+<<<<<<< HEAD
         color: #f00000; }
+=======
+        color: #000000; }
+>>>>>>> gh-pages
 
 /* :: 9.0 Footer CSS */
 .footer-content {
